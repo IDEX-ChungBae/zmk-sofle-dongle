@@ -328,3 +328,4 @@ layers:
 combos:
 - p: [34, 35]
   k: {t: '=', s: +}
+  l: [QWERTY]
