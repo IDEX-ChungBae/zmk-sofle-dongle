@@ -71,6 +71,7 @@
         Equal {
             bindings = <&kp EQUAL>;
             key-positions = <34 35>;
+            layers = <0>;
         };
     };
 
