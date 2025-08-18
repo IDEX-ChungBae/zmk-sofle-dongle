@@ -55,7 +55,7 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:volume-off$$
   - LEFT WIN
-  - $$mdi:apple-keyboard-option$$
+  - '&MOUSE_KP_ALT'
   - $$mdi:keyboard-tab$$
   - '!@#$%'
   - {t: '$$mdi:keyboard-space$$', h: '12345', s: _}
