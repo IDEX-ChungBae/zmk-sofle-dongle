@@ -14,7 +14,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: \, s: '|'}
-  - $$mdi:keyboard-esc$$
+  - $$mdi:keyboard-tab$$
   - Q
   - W
   - E
@@ -55,8 +55,8 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:volume-off$$
   - LEFT WIN
+  - $$mdi:keyboard-esc$$
   - '&MOUSE_KP_ALT'
-  - $$mdi:keyboard-tab$$
   - '!@#$%'
   - {t: '$$mdi:keyboard-space$$', h: '12345', s: _}
   - {t: '$$mdi:keyboard-return$$', type: enter}
@@ -208,7 +208,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '&studio_unlock'
   - $$mdi:bluetooth-off$$
   - {h: '5', s: '$$mdi:bluetooth-connect$$'}
   - {h: '4', s: '$$mdi:bluetooth-connect$$'}
