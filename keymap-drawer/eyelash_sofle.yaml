@@ -1,6 +1,6 @@
 layout: {zmk_keyboard: eyelash_sofle}
 layers:
-  QWERTY:
+  ABCD:
   - $$mdi:keyboard-esc$$
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
@@ -121,7 +121,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: QWERTY, h: toggle}
+  - {t: ABCD, h: toggle}
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -186,7 +186,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: QWERTY, h: toggle}
+  - {t: ABCD, h: toggle}
   - {type: held alternate}
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -328,4 +328,4 @@ layers:
 combos:
 - p: [34, 35]
   k: {t: '=', s: +}
-  l: [QWERTY, '!@#$%', '12345']
+  l: [ABCD, '!@#$%', '12345']
