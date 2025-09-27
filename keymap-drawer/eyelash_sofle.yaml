@@ -67,17 +67,17 @@ layers:
   - $$mdi:apple-keyboard-option$$
   '!@#$%':
   - {t: '$$mdi:transfer$$', type: trans}
+  - Gui+1
+  - Gui+2
+  - Gui+3
+  - Gui+4
+  - {t: Gui+5, s: Gui+%}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - Gui+6
+  - {t: Gui+7, s: Gui+&}
+  - {t: Gui+8, s: Gui+*}
+  - {t: Gui+9, s: Gui+(}
+  - {t: Gui+0, s: Gui+)}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
