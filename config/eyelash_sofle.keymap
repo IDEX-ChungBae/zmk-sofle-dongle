@@ -118,11 +118,11 @@
 
         SYMBOL_LAYER {
             bindings = <
-&trans  &trans  &trans         &trans        &trans         &trans       &trans  &trans        &trans       &trans                &trans                 &trans     &trans
-&trans  &trans  &kp AMPERSAND  &kp ASTERISK  &kp BACKSLASH  &kp TILDE    &trans  &kp KP_MINUS  &kp KP_PLUS  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans     &trans
-&mo 5   &trans  &kp DOLLAR     &kp PERCENT   &kp CARET      &trans       &trans  &kp EQUAL     &trans       &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp GRAVE  &trans
-&mo 2   &trans  &kp EXCL       &kp AT        &kp HASH       &trans       &trans  &kp UNDER     &trans       &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans     &mo 2
-&trans  &trans  &trans         &to 0         &trans         &trans       &trans  &trans        &trans       &trans                &trans                 &trans
+&trans  &kp LG(NUMBER_1)  &kp LG(NUMBER_2)  &kp LG(NUMBER_3)  &kp LG(NUMBER_4)  &kp LG(N5)    &trans  &kp LG(NUMBER_6)  &kp LG(N7)   &kp LG(N8)            &kp LG(N9)             &kp LG(N0)  &trans
+&trans  &trans            &kp AMPERSAND     &kp ASTERISK      &kp BACKSLASH     &kp TILDE     &trans  &kp KP_MINUS      &kp KP_PLUS  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans      &trans
+&mo 5   &trans            &kp DOLLAR        &kp PERCENT       &kp CARET         &trans        &trans  &kp EQUAL         &trans       &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp GRAVE   &trans
+&mo 2   &trans            &kp EXCL          &kp AT            &kp HASH          &trans        &trans  &kp UNDER         &trans       &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans      &mo 2
+&trans  &trans            &trans            &to 0             &trans            &trans        &trans  &trans            &trans       &trans                &trans                 &trans
             >;
 
             label = "!@#$%";
