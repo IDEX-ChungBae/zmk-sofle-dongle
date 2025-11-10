@@ -142,11 +142,11 @@
 
         NAVIGATION_LAYER {
             bindings = <
-&trans  &trans             &trans           &trans           &trans        &trans           &trans  &trans          &trans          &trans        &trans           &trans  &studio_unlock
-&trans  &bt BT_SEL 4       &bt BT_SEL 3     &bt BT_SEL 2     &bt BT_SEL 1  &bt BT_SEL 0     &trans  &kp HOME        &kp END         &kp DELETE    &kp BACKSPACE    &trans  &out OUT_TOG
-&trans  &rgb_ug RGB_BRD    &rgb_ug RGB_TOG  &rgb_ug RGB_BRI  &kp PAGE_UP   &kp PAGE_DOWN    &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
-&trans  &kp C_VOLUME_DOWN  &kp C_MUTE       &kp C_VOLUME_UP  &trans        &trans           &trans  &msc SCRL_LEFT  &msc SCRL_DOWN  &msc SCRL_UP  &msc SCRL_RIGHT  &trans  &trans
-&trans  &trans             &trans           &trans           &trans        &trans           &trans  &trans          &trans          &trans        &trans           &trans
+&trans  &kp LA(LC(LG(NUMBER_1)))  &kp LA(LC(LG(NUMBER_2)))  &kp LA(LC(LG(NUMBER_3)))  &kp LA(LC(LG(NUMBER_4)))  &kp LA(LC(LG(N5)))    &trans  &trans          &trans          &trans        &trans           &trans  &studio_unlock
+&trans  &bt BT_SEL 4              &bt BT_SEL 3              &bt BT_SEL 2              &bt BT_SEL 1              &bt BT_SEL 0          &trans  &kp HOME        &kp END         &kp DELETE    &kp BACKSPACE    &trans  &out OUT_TOG
+&trans  &rgb_ug RGB_BRD           &rgb_ug RGB_TOG           &rgb_ug RGB_BRI           &kp PAGE_UP               &kp PAGE_DOWN         &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
+&trans  &kp C_VOLUME_DOWN         &kp C_MUTE                &kp C_VOLUME_UP           &trans                    &trans                &trans  &msc SCRL_LEFT  &msc SCRL_DOWN  &msc SCRL_UP  &msc SCRL_RIGHT  &trans  &trans
+&trans  &trans                    &trans                    &trans                    &trans                    &trans                &trans  &trans          &trans          &trans        &trans           &trans
             >;
 
             label = "NAVIG";
