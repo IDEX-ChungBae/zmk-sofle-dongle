@@ -95,7 +95,7 @@
         yoyo: yoyo {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp M &kp E &kp L &kp L &kp E &kp S &kp N1 &kp N2 &kp N3 &kp N4 &kp N5 &kp DLLR>;
+            bindings = <&kp M &kp E &kp L &kp L &kp E &kp S &kp N1 &kp N2 &kp N3 &kp N4 &kp N5 &kp DLLR &kp LS(M) &kp LS(E) &kp LS(L) &kp LS(L) &kp LS(E) &kp LS(S)>;
             label = "YOYO";
         };
     };
